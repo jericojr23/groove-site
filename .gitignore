@@ -1,0 +1,3 @@
+# Windows Zone.Identifier alternate data stream files (created when copying downloads into WSL)
+*Zone.Identifier
+*.Identifier
